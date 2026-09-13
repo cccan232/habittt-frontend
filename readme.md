@@ -13,16 +13,14 @@ Habittt 是一个基于“游戏化正向反馈机制”的习惯养成系统。
 
 ## 效果展示
 
-> 点击图片可查看大图
-
 | 模块 | 截图 |
 | :---: | :---: |
-| **地图** | ![地图1](screenshots\map1.png)![地图2](screenshots\map2.png) |
-| **登录与注册** | ![登录注册1](screenshots\login1.png) ![登录注册2](screenshots\login2.png)|
-| **任务列表与打卡** | ![任务列表](screenshots\tasklist.png) |
-| **装扮商城** | ![装扮商城](screenshots\shop.png) |
-| **队伍聊天** | ![队伍聊天](screenshots\team.png) |
-| **管理后台** | ![管理后台](screenshots\admin.png) |
+| **地图** |<img width="1917" height="901" alt="map1" src="https://github.com/user-attachments/assets/6fbaf68e-f4b1-4b88-82cb-fa2235be6b79" /><img width="1917" height="906" alt="map2" src="https://github.com/user-attachments/assets/c466e8d5-bced-4223-bb53-beee58505dfe" />|
+| **登录与注册** |<img width="367" height="581" alt="login1" src="https://github.com/user-attachments/assets/43031c3f-f582-4bd3-a32a-380ee043fa08" /><img width="592" height="542" alt="login2" src="https://github.com/user-attachments/assets/6eae4d6f-ed11-4423-ab3d-ffb0875bdb1c" />|
+| **任务列表与打卡** |<img width="1160" height="466" alt="tasklist" src="https://github.com/user-attachments/assets/484f1d7d-6f2f-4411-91d5-7a6833af3d9e" />|
+| **装扮商城** |<img width="985" height="459" alt="shop" src="https://github.com/user-attachments/assets/3354b8c9-bc96-4e57-bde7-4d2deac65ad2" />|
+| **队伍聊天** |<img width="959" height="444" alt="team" src="https://github.com/user-attachments/assets/38ab9ace-3f79-46c9-969b-d7ea35ff22f8" />|
+| **管理后台** |<img width="1144" height="426" alt="admin" src="https://github.com/user-attachments/assets/c067e53a-29fd-4f4d-b1d4-4b9b367fdcfe" />|
 
 
 ## 技术栈
